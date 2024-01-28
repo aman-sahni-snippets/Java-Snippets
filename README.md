@@ -1,2 +1,2 @@
-# Java-Streams
-this contains code snippets related to java streams
+# Java-Snippets
+this contains code snippets related to core java.
