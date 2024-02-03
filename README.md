@@ -1,5 +1,5 @@
-## Core Java Examples Repository
-Welcome to the Core Java Examples Repository! This repository is dedicated to providing practical examples for fundamental Java concepts, including streams, multithreading, deadlock, and more. The goal is to help developers understand these concepts through hands-on examples.
+## Core Java Essentials Repository
+Welcome to the Core Java Essentials Repository! This repository is dedicated to providing practical examples for fundamental Java concepts, including streams, multithreading, deadlock, and more. The goal is to help developers understand these concepts through hands-on examples.
 
 ## Disclaimer
 Please Note: These examples are intended for educational purposes only. They are designed to illustrate and clarify core Java concepts and should not be treated as strict code standards or best practices.
